@@ -3,7 +3,7 @@
  * 
  * 
  * ! Section 1: ES6 Classes and Instances: 40 points
- * * Write an ES56 class for a snow ball fight combatant
+ * * Write an ES6 class for a snow ball fight combatant
  * * -Take in parameters for name(string), aiming skill(number between 0 and 1) and hit points(number)
  * * -Make a function in your class for throwing a snowball that takes in:
  * *    -a target(another instance of the snowball fighter)
